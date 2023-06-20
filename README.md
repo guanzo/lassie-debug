@@ -1,6 +1,6 @@
 start lassie daemon
 ```
-$ lassie daemon --vv -p 8989
+$ GOLOG_LOG_LEVEL=debug lassie daemon --vv -p 8989
 ```
 
 run script
